@@ -1,9 +1,7 @@
 ```markdown
 # CAREERİNGO
 
-A hackathon project focused on building practical applications and tooling around LLaMA-style language models, GitHub / CV analysis agents, and a small React frontend (Student Assistant Interface). This README has been expanded with concrete file references, usage examples and security notes based on the repository code.
-
-> NOTE: Update model paths, tokens and any environment-specific values before running. Remove any hard-coded secrets found in the code and use environment variables instead.
+A hackathon project focused on building career paths with tooling around LLaMA-style language models, GitHub / CV analysis agents, and a React frontend (Student Assistant Interface).
 
 ## Table of contents
 - Project description and purpose
@@ -25,7 +23,7 @@ A hackathon project focused on building practical applications and tooling aroun
 CAREERİNGO contains components to:
 - Analyze GitHub profiles and repositories with an AI agent (metric extraction, README analysis, issue/pr analysis, code-review heuristics).
 - Parse CVs and produce structured career reports (CV parsing + LLM generation).
-- Provide a small React-based student assistant frontend (Student Assistant Interface).
+- Provide a React-based student assistant frontend (Student Assistant Interface).
 - Provide utilities and scripts that demonstrate LLM usage locally (LLM wrappers, tokenizers, model generate examples).
 
 ---
@@ -187,25 +185,5 @@ Examples and quick commands
 - Out of memory: use smaller models, enable 8-bit quantization libraries, or run on CPU with smaller batch sizes.
 - Frontend build errors: ensure Node and npm versions match expectations (check package.json).
 
----
-
-## License & model weights
-
-- Code license: add a LICENSE file (e.g., MIT or Apache-2.0) if appropriate.
-- Model weights: NOT included. Download any LLaMA-style weights or open alternatives and place them in a configured model directory. Always respect the model license.
-
----
-
-## Contact
-
-- Repo owner: https://github.com/AltanReisoglu
-- Contributor: https://github.com/MoonGlow22
-
----
-
-Thank you — I expanded the README to include concrete file references, usage examples discovered in the repository (backend/ollamachat2.py, backend/ollamachat3.py, backend/githubreal.py, backend/cv_mechanism/converter.py, and frontend). If you want, I can:
-- Create / push this README.md into the repository (I can prepare the exact commit message and changes).
-- Produce CONTRIBUTING.md and SECURITY.md templates.
-- Replace any detected hard-coded secrets with environment variable patterns and produce a small script to validate env setup.
 
 ```
