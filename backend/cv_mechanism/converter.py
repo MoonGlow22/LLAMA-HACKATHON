@@ -5,11 +5,11 @@ import re
 import re
 
 import re
-
+import pandas as pd
 from typing import Dict, List
 
 import re
-
+from githubreal import GLOBAL_USER
 def raporu_ayir(rapor_metni):
     # Başlıkları bul (**: ile biten veya ** ile sarılmış olanlar)
     basliklar = re.findall(r'\*\*(.*?)\*\*:?', rapor_metni)
@@ -110,7 +110,27 @@ Write the output in a clean format. Start with: "Report:"
     output_text = tokenizer.decode(output_tokens[0], skip_special_tokens=True)
     report = extract_report(output_text)
     print(report)
-    return raporu_ayir(report)
+    dicted=raporu_ayir(report)
+    (short_summary, key_strength, weakness, jobs, suggests, ats, interview, questions, cv_score) = dicted.values()
+    df = pd.read_csv("backend/users.csv")
+    username=GLOBAL_USER["username"]
+    user_mask = df['name'] == username
+        
+        # Kullanıcı var mı kontrol et
+    if not user_mask.any():
+        print(f"Hata: {username} kullanıcısı bulunamadı")
+        return
+        
+        # Değerleri güncelle - LOC kullanarak
+    df.loc[user_mask, "q1"] = suggests
+    df.loc[user_mask, "q2"] = interview
+    
+    # CSV'ye kaydet
+    df.to_csv("backend/users.csv", index=False)
+    
+    
+
+    return  dicted
 
 if __name__ == "__main__":
     link = "backend/hazirCV.pdf"
