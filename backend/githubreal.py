@@ -7,7 +7,8 @@ import json
 from fastapi import APIRouter
 from pydantic import BaseModel
 import pandas as pd
-
+from dotenv import load_dotenv
+load_dotenv()
 def bolumlere_ayir(text):
         # Tüm ana başlıkları (## ...) bul
         basliklar = re.findall(r"^##\s+.*", text, re.MULTILINE)
@@ -20,9 +21,10 @@ def bolumlere_ayir(text):
             bolumler[baslik_adi] = text[start:end].strip()
         
         return bolumler
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 def mainagent(query: str):
     # CSV dosyasını oku
-    df = pd.read_csv("users.csv")
+    df = pd.read_csv("backend/users.csv")
 
     """
     Determines whether a GitHub link is a repository or a profile,
@@ -30,7 +32,7 @@ def mainagent(query: str):
     """
 
     # Güvenli token kullanımı (gerçek ortamda environment variable'dan alınmalı)
-    GITHUB_TOKEN = "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"
+    
 
     # Ollama LLM başlat
     #ollama_llm = OllamaLLM(model="llama3.1:8b", base_url="http://localhost:11434")
@@ -85,7 +87,7 @@ def mainagent(query: str):
     # Rapor oluştur
     report, hws, jsoned = analyzer.generate_full_report(username)
     jsoned=json.loads(jsoned)
-    
+    print(jsoned)
     report_sections = bolumlere_ayir(report)
     print("📄 Rapor bölümleri:", report_sections.keys())
     yeni_satir = pd.DataFrame(
@@ -104,7 +106,7 @@ def mainagent(query: str):
 
     # CSV'ye tekrar yaz
     df_yeni.to_csv(
-        "users.csv",
+        "backend/users.csv",
         index=False
     )
 
@@ -114,7 +116,7 @@ def mainagent(query: str):
         
 
 def minagent2(query: str):
-    GITHUB_TOKEN = "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"
+    
 
     from ollamachat3 import GitHubRepoAnalyzer
 
@@ -147,14 +149,6 @@ def minagent2(query: str):
 # 🧪 Test kodu
 # -------------------------------
 if __name__ == "__main__":
-    query = "https://github.com/AltanReisoglu"
+    query = "github.com/AltanReisoglu"
     out = mainagent(query)
-    user=out.get('👤 Kullanıcı Bilgileri', {})
-    stats=out.get('📊 İstatistikler', {})
-    languages=out.get('💻 En Çok Kullanılan Diller', {})
-    popular_repos=out.get('🏆 En Popüler Repolar', {})
-    profile_score=out.get('📈 Profil Skoru', {})
-    ai_analysis=out.get('🤖 AI Analizi', {})
-    learning_path=out.get('📚 Öğrenme Yol Haritası (ChromaDB Retrieval)', {})
-    course_metadata=out.get("🔗 Kurs Metadataları (ilk 5'ten seçilenlerin linkleri)", {})
-    print("👤 Kullanıcı Bilgileri:", user)
+    print(out)
