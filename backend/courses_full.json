@@ -1,0 +1,4052 @@
+[
+  {
+    "language": "Python",
+    "course_name": "CS50's Introduction to Programming with Python",
+    "platform": "Harvard / edX",
+    "url": "https://pll.harvard.edu/course/cs50s-introduction-programming-python",
+    "level": "beginner",
+    "description": "Python programlamaya temelden giriş.",
+    "cost": "paid"
+  },
+  {
+    "language": "Python",
+    "course_name": "Python for Everybody",
+    "platform": "Coursera / University of Michigan",
+    "url": "https://www.coursera.org/specializations/python",
+    "level": "beginner",
+    "description": "Python temelleri ve veri işleme.",
+    "cost": "paid"
+  },
+  {
+    "language": "Python",
+    "course_name": "Complete Python Bootcamp: Go from zero to hero in Python 3",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/complete-python-bootcamp/",
+    "level": "beginner",
+    "description": "Python 3 ile kapsamlı eğitim.",
+    "cost": "paid"
+  },
+  {
+    "language": "Python",
+    "course_name": "Automate the Boring Stuff with Python",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/automate/",
+    "level": "beginner",
+    "description": "Günlük görevleri Python ile otomatikleştirme.",
+    "cost": "paid"
+  },
+  {
+    "language": "Python",
+    "course_name": "Google IT Automation with Python",
+    "platform": "Coursera / Google",
+    "url": "https://www.coursera.org/professional-certificates/google-it-automation",
+    "level": "intermediate",
+    "description": "Sistem otomasyonu ve Python.",
+    "cost": "paid"
+  },
+  {
+    "language": "Python",
+    "course_name": "Python 6: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Python+course",
+    "level": "intermediate",
+    "description": "Python dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "Python",
+    "course_name": "Python 7: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Python+course",
+    "level": "intermediate",
+    "description": "Python dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "Python",
+    "course_name": "Python 8: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Python+course",
+    "level": "advanced",
+    "description": "Python dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "free"
+  },
+  {
+    "language": "Python",
+    "course_name": "Python 9: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Python+course",
+    "level": "advanced",
+    "description": "Python dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "paid"
+  },
+  {
+    "language": "Python",
+    "course_name": "Python 10: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Python+course",
+    "level": "advanced",
+    "description": "Python dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "Python",
+    "course_name": "Python 11: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Python+course",
+    "level": "beginner",
+    "description": "Python dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "Python",
+    "course_name": "Python 12: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Python+course",
+    "level": "advanced",
+    "description": "Python dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "Python",
+    "course_name": "Python 13: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Python+course",
+    "level": "intermediate",
+    "description": "Python dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "Python",
+    "course_name": "Python 14: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Python+course",
+    "level": "advanced",
+    "description": "Python dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "Python",
+    "course_name": "Python 15: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Python+course",
+    "level": "beginner",
+    "description": "Python dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "The Complete JavaScript Course",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/the-complete-javascript-course/",
+    "level": "beginner",
+    "description": "Modern JavaScript (ES6+) eğitimi.",
+    "cost": "paid"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "JavaScript for Beginners",
+    "platform": "edX",
+    "url": "https://www.edx.org/learn/javascript",
+    "level": "beginner",
+    "description": "Temel JavaScript ve web geliştirme.",
+    "cost": "free"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "Front-End Web Development with React",
+    "platform": "Coursera / Meta",
+    "url": "https://www.coursera.org/learn/front-end-react",
+    "level": "intermediate",
+    "description": "React ile ön yüz geliştirme.",
+    "cost": "paid"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "JavaScript 4: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=JavaScript+course",
+    "level": "advanced",
+    "description": "JavaScript dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "JavaScript 5: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=JavaScript+course",
+    "level": "intermediate",
+    "description": "JavaScript dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "JavaScript 6: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=JavaScript+course",
+    "level": "advanced",
+    "description": "JavaScript dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "free"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "JavaScript 7: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=JavaScript+course",
+    "level": "advanced",
+    "description": "JavaScript dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "JavaScript 8: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=JavaScript+course",
+    "level": "intermediate",
+    "description": "JavaScript dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "JavaScript 9: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=JavaScript+course",
+    "level": "beginner",
+    "description": "JavaScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "paid"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "JavaScript 10: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=JavaScript+course",
+    "level": "beginner",
+    "description": "JavaScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "JavaScript 11: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=JavaScript+course",
+    "level": "advanced",
+    "description": "JavaScript dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "JavaScript 12: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=JavaScript+course",
+    "level": "intermediate",
+    "description": "JavaScript dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "paid"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "JavaScript 13: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=JavaScript+course",
+    "level": "beginner",
+    "description": "JavaScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "free"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "JavaScript 14: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=JavaScript+course",
+    "level": "advanced",
+    "description": "JavaScript dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "JavaScript",
+    "course_name": "JavaScript 15: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=JavaScript+course",
+    "level": "intermediate",
+    "description": "JavaScript dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java Programming and Software Engineering Fundamentals",
+    "platform": "Coursera / Duke",
+    "url": "https://www.coursera.org/specializations/java-programming",
+    "level": "beginner",
+    "description": "Java ile programlama ve yazılım mühendisliği.",
+    "cost": "free"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java Programming Masterclass",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/java-the-complete-java-developer-course/",
+    "level": "beginner",
+    "description": "Java'yı sıfırdan ileri seviyeye öğretir.",
+    "cost": "paid"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java 3: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Java+course",
+    "level": "beginner",
+    "description": "Java dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java 4: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Java+course",
+    "level": "intermediate",
+    "description": "Java dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java 5: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Java+course",
+    "level": "advanced",
+    "description": "Java dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java 6: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Java+course",
+    "level": "advanced",
+    "description": "Java dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java 7: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Java+course",
+    "level": "intermediate",
+    "description": "Java dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java 8: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Java+course",
+    "level": "beginner",
+    "description": "Java dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java 9: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Java+course",
+    "level": "advanced",
+    "description": "Java dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java 10: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Java+course",
+    "level": "intermediate",
+    "description": "Java dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java 11: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Java+course",
+    "level": "intermediate",
+    "description": "Java dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java 12: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Java+course",
+    "level": "advanced",
+    "description": "Java dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java 13: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Java+course",
+    "level": "beginner",
+    "description": "Java dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java 14: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Java+course",
+    "level": "intermediate",
+    "description": "Java dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "Java",
+    "course_name": "Java 15: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Java+course",
+    "level": "advanced",
+    "description": "Java dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "C++",
+    "course_name": "Beginning C++ Programming - From Beginner to Beyond",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/beginning-c-plus-plus-programming/",
+    "level": "beginner",
+    "description": "C++ temelleri ve OOP.",
+    "cost": "paid"
+  },
+  {
+    "language": "C++",
+    "course_name": "C++ For Programmers",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/course/c-for-programmers--ud210",
+    "level": "intermediate",
+    "description": "Programcılara yönelik C++ özellikleri.",
+    "cost": "paid"
+  },
+  {
+    "language": "C++",
+    "course_name": "C++ 3: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=C+++course",
+    "level": "advanced",
+    "description": "C++ dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "C++",
+    "course_name": "C++ 4: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=C+++course",
+    "level": "intermediate",
+    "description": "C++ dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "C++",
+    "course_name": "C++ 5: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=C+++course",
+    "level": "advanced",
+    "description": "C++ dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "C++",
+    "course_name": "C++ 6: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=C+++course",
+    "level": "advanced",
+    "description": "C++ dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "C++",
+    "course_name": "C++ 7: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=C+++course",
+    "level": "beginner",
+    "description": "C++ dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "free"
+  },
+  {
+    "language": "C++",
+    "course_name": "C++ 8: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=C+++course",
+    "level": "beginner",
+    "description": "C++ dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "C++",
+    "course_name": "C++ 9: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=C+++course",
+    "level": "beginner",
+    "description": "C++ dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "C++",
+    "course_name": "C++ 10: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=C+++course",
+    "level": "advanced",
+    "description": "C++ dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "C++",
+    "course_name": "C++ 11: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=C+++course",
+    "level": "intermediate",
+    "description": "C++ dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "C++",
+    "course_name": "C++ 12: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=C+++course",
+    "level": "intermediate",
+    "description": "C++ dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "C++",
+    "course_name": "C++ 13: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=C+++course",
+    "level": "intermediate",
+    "description": "C++ dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "C++",
+    "course_name": "C++ 14: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=C+++course",
+    "level": "beginner",
+    "description": "C++ dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "C++",
+    "course_name": "C++ 15: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=C+++course",
+    "level": "beginner",
+    "description": "C++ dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Go",
+    "course_name": "Programming with Google Go",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/specializations/google-golang",
+    "level": "beginner",
+    "description": "Go diline giriş.",
+    "cost": "free"
+  },
+  {
+    "language": "Go",
+    "course_name": "Learn Go: The Complete Bootcamp",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/learn-go-the-complete-bootcamp/",
+    "level": "beginner",
+    "description": "Go ile projeler ve uygulamalar.",
+    "cost": "paid"
+  },
+  {
+    "language": "Go",
+    "course_name": "Go 3: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Go+course",
+    "level": "advanced",
+    "description": "Go dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "Go",
+    "course_name": "Go 4: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Go+course",
+    "level": "beginner",
+    "description": "Go dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Go",
+    "course_name": "Go 5: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Go+course",
+    "level": "beginner",
+    "description": "Go dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "Go",
+    "course_name": "Go 6: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Go+course",
+    "level": "intermediate",
+    "description": "Go dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "Go",
+    "course_name": "Go 7: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Go+course",
+    "level": "advanced",
+    "description": "Go dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Go",
+    "course_name": "Go 8: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Go+course",
+    "level": "intermediate",
+    "description": "Go dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Go",
+    "course_name": "Go 9: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Go+course",
+    "level": "beginner",
+    "description": "Go dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "Go",
+    "course_name": "Go 10: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Go+course",
+    "level": "intermediate",
+    "description": "Go dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "Go",
+    "course_name": "Go 11: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Go+course",
+    "level": "beginner",
+    "description": "Go dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "Go",
+    "course_name": "Go 12: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Go+course",
+    "level": "advanced",
+    "description": "Go dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "Go",
+    "course_name": "Go 13: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Go+course",
+    "level": "beginner",
+    "description": "Go dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "Go",
+    "course_name": "Go 14: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Go+course",
+    "level": "advanced",
+    "description": "Go dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "Go",
+    "course_name": "Go 15: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Go+course",
+    "level": "beginner",
+    "description": "Go dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 1: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Ruby+course",
+    "level": "beginner",
+    "description": "Ruby dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 2: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Ruby+course",
+    "level": "advanced",
+    "description": "Ruby dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 3: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Ruby+course",
+    "level": "intermediate",
+    "description": "Ruby dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 4: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Ruby+course",
+    "level": "beginner",
+    "description": "Ruby dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 5: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Ruby+course",
+    "level": "advanced",
+    "description": "Ruby dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 6: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Ruby+course",
+    "level": "beginner",
+    "description": "Ruby dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 7: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Ruby+course",
+    "level": "intermediate",
+    "description": "Ruby dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 8: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Ruby+course",
+    "level": "intermediate",
+    "description": "Ruby dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 9: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Ruby+course",
+    "level": "beginner",
+    "description": "Ruby dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "free"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 10: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Ruby+course",
+    "level": "beginner",
+    "description": "Ruby dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 11: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Ruby+course",
+    "level": "beginner",
+    "description": "Ruby dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 12: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Ruby+course",
+    "level": "beginner",
+    "description": "Ruby dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 13: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Ruby+course",
+    "level": "intermediate",
+    "description": "Ruby dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 14: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Ruby+course",
+    "level": "beginner",
+    "description": "Ruby dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "Ruby",
+    "course_name": "Ruby 15: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Ruby+course",
+    "level": "advanced",
+    "description": "Ruby dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 1: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Kotlin+course",
+    "level": "intermediate",
+    "description": "Kotlin dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 2: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Kotlin+course",
+    "level": "advanced",
+    "description": "Kotlin dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 3: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Kotlin+course",
+    "level": "beginner",
+    "description": "Kotlin dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 4: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Kotlin+course",
+    "level": "beginner",
+    "description": "Kotlin dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 5: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Kotlin+course",
+    "level": "intermediate",
+    "description": "Kotlin dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 6: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Kotlin+course",
+    "level": "advanced",
+    "description": "Kotlin dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "free"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 7: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Kotlin+course",
+    "level": "advanced",
+    "description": "Kotlin dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 8: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Kotlin+course",
+    "level": "advanced",
+    "description": "Kotlin dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 9: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Kotlin+course",
+    "level": "beginner",
+    "description": "Kotlin dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "free"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 10: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Kotlin+course",
+    "level": "advanced",
+    "description": "Kotlin dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 11: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Kotlin+course",
+    "level": "beginner",
+    "description": "Kotlin dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 12: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Kotlin+course",
+    "level": "advanced",
+    "description": "Kotlin dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "paid"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 13: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Kotlin+course",
+    "level": "advanced",
+    "description": "Kotlin dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 14: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Kotlin+course",
+    "level": "intermediate",
+    "description": "Kotlin dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "Kotlin",
+    "course_name": "Kotlin 15: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Kotlin+course",
+    "level": "advanced",
+    "description": "Kotlin dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 1: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Swift+course",
+    "level": "beginner",
+    "description": "Swift dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 2: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Swift+course",
+    "level": "beginner",
+    "description": "Swift dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "free"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 3: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Swift+course",
+    "level": "intermediate",
+    "description": "Swift dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 4: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Swift+course",
+    "level": "intermediate",
+    "description": "Swift dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 5: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Swift+course",
+    "level": "beginner",
+    "description": "Swift dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 6: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Swift+course",
+    "level": "beginner",
+    "description": "Swift dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 7: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Swift+course",
+    "level": "intermediate",
+    "description": "Swift dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 8: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Swift+course",
+    "level": "beginner",
+    "description": "Swift dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 9: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Swift+course",
+    "level": "beginner",
+    "description": "Swift dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 10: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Swift+course",
+    "level": "advanced",
+    "description": "Swift dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 11: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Swift+course",
+    "level": "beginner",
+    "description": "Swift dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 12: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Swift+course",
+    "level": "advanced",
+    "description": "Swift dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "free"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 13: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Swift+course",
+    "level": "beginner",
+    "description": "Swift dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 14: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Swift+course",
+    "level": "beginner",
+    "description": "Swift dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Swift",
+    "course_name": "Swift 15: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Swift+course",
+    "level": "beginner",
+    "description": "Swift dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 1: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=PHP+course",
+    "level": "intermediate",
+    "description": "PHP dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 2: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=PHP+course",
+    "level": "intermediate",
+    "description": "PHP dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 3: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=PHP+course",
+    "level": "beginner",
+    "description": "PHP dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 4: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=PHP+course",
+    "level": "advanced",
+    "description": "PHP dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 5: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=PHP+course",
+    "level": "intermediate",
+    "description": "PHP dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 6: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=PHP+course",
+    "level": "advanced",
+    "description": "PHP dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 7: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=PHP+course",
+    "level": "advanced",
+    "description": "PHP dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 8: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=PHP+course",
+    "level": "beginner",
+    "description": "PHP dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 9: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=PHP+course",
+    "level": "advanced",
+    "description": "PHP dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 10: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=PHP+course",
+    "level": "intermediate",
+    "description": "PHP dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 11: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=PHP+course",
+    "level": "advanced",
+    "description": "PHP dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 12: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=PHP+course",
+    "level": "advanced",
+    "description": "PHP dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 13: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=PHP+course",
+    "level": "advanced",
+    "description": "PHP dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "free"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 14: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=PHP+course",
+    "level": "beginner",
+    "description": "PHP dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "PHP",
+    "course_name": "PHP 15: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=PHP+course",
+    "level": "beginner",
+    "description": "PHP dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 1: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=C#+course",
+    "level": "beginner",
+    "description": "C# dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "free"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 2: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=C#+course",
+    "level": "intermediate",
+    "description": "C# dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 3: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=C#+course",
+    "level": "advanced",
+    "description": "C# dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 4: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=C#+course",
+    "level": "beginner",
+    "description": "C# dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 5: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=C#+course",
+    "level": "beginner",
+    "description": "C# dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 6: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=C#+course",
+    "level": "intermediate",
+    "description": "C# dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 7: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=C#+course",
+    "level": "intermediate",
+    "description": "C# dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 8: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=C#+course",
+    "level": "advanced",
+    "description": "C# dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 9: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=C#+course",
+    "level": "advanced",
+    "description": "C# dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 10: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=C#+course",
+    "level": "beginner",
+    "description": "C# dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 11: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=C#+course",
+    "level": "advanced",
+    "description": "C# dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 12: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=C#+course",
+    "level": "beginner",
+    "description": "C# dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 13: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=C#+course",
+    "level": "beginner",
+    "description": "C# dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 14: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=C#+course",
+    "level": "intermediate",
+    "description": "C# dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "C#",
+    "course_name": "C# 15: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=C#+course",
+    "level": "advanced",
+    "description": "C# dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 1: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Rust+course",
+    "level": "advanced",
+    "description": "Rust dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 2: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Rust+course",
+    "level": "intermediate",
+    "description": "Rust dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 3: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Rust+course",
+    "level": "advanced",
+    "description": "Rust dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 4: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Rust+course",
+    "level": "intermediate",
+    "description": "Rust dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 5: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Rust+course",
+    "level": "intermediate",
+    "description": "Rust dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 6: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Rust+course",
+    "level": "intermediate",
+    "description": "Rust dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 7: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Rust+course",
+    "level": "beginner",
+    "description": "Rust dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 8: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Rust+course",
+    "level": "advanced",
+    "description": "Rust dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 9: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Rust+course",
+    "level": "intermediate",
+    "description": "Rust dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 10: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Rust+course",
+    "level": "intermediate",
+    "description": "Rust dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 11: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Rust+course",
+    "level": "beginner",
+    "description": "Rust dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "free"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 12: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Rust+course",
+    "level": "beginner",
+    "description": "Rust dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 13: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Rust+course",
+    "level": "advanced",
+    "description": "Rust dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 14: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Rust+course",
+    "level": "intermediate",
+    "description": "Rust dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 15: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Rust+course",
+    "level": "advanced",
+    "description": "Rust dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 1: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=TypeScript+course",
+    "level": "advanced",
+    "description": "TypeScript dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 2: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=TypeScript+course",
+    "level": "intermediate",
+    "description": "TypeScript dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 3: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=TypeScript+course",
+    "level": "beginner",
+    "description": "TypeScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 4: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=TypeScript+course",
+    "level": "beginner",
+    "description": "TypeScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 5: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=TypeScript+course",
+    "level": "beginner",
+    "description": "TypeScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 6: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=TypeScript+course",
+    "level": "intermediate",
+    "description": "TypeScript dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 7: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=TypeScript+course",
+    "level": "advanced",
+    "description": "TypeScript dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 8: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=TypeScript+course",
+    "level": "beginner",
+    "description": "TypeScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 9: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=TypeScript+course",
+    "level": "beginner",
+    "description": "TypeScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 10: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=TypeScript+course",
+    "level": "advanced",
+    "description": "TypeScript dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 11: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=TypeScript+course",
+    "level": "advanced",
+    "description": "TypeScript dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 12: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=TypeScript+course",
+    "level": "beginner",
+    "description": "TypeScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 13: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=TypeScript+course",
+    "level": "beginner",
+    "description": "TypeScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 14: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=TypeScript+course",
+    "level": "beginner",
+    "description": "TypeScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 15: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=TypeScript+course",
+    "level": "advanced",
+    "description": "TypeScript dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 1: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=SQL+course",
+    "level": "intermediate",
+    "description": "SQL dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 2: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=SQL+course",
+    "level": "advanced",
+    "description": "SQL dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 3: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=SQL+course",
+    "level": "intermediate",
+    "description": "SQL dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "paid"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 4: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=SQL+course",
+    "level": "intermediate",
+    "description": "SQL dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 5: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=SQL+course",
+    "level": "advanced",
+    "description": "SQL dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 6: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=SQL+course",
+    "level": "advanced",
+    "description": "SQL dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 7: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=SQL+course",
+    "level": "intermediate",
+    "description": "SQL dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 8: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=SQL+course",
+    "level": "beginner",
+    "description": "SQL dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "paid"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 9: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=SQL+course",
+    "level": "advanced",
+    "description": "SQL dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 10: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=SQL+course",
+    "level": "intermediate",
+    "description": "SQL dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 11: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=SQL+course",
+    "level": "intermediate",
+    "description": "SQL dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "paid"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 12: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=SQL+course",
+    "level": "beginner",
+    "description": "SQL dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 13: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=SQL+course",
+    "level": "advanced",
+    "description": "SQL dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 14: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=SQL+course",
+    "level": "advanced",
+    "description": "SQL dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 15: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=SQL+course",
+    "level": "beginner",
+    "description": "SQL dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "R",
+    "course_name": "R 1: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=R+course",
+    "level": "beginner",
+    "description": "R dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 2: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=R+course",
+    "level": "intermediate",
+    "description": "R dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "R",
+    "course_name": "R 3: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=R+course",
+    "level": "beginner",
+    "description": "R dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 4: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=R+course",
+    "level": "beginner",
+    "description": "R dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 5: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=R+course",
+    "level": "beginner",
+    "description": "R dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 6: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=R+course",
+    "level": "intermediate",
+    "description": "R dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 7: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=R+course",
+    "level": "beginner",
+    "description": "R dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 8: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=R+course",
+    "level": "beginner",
+    "description": "R dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 9: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=R+course",
+    "level": "beginner",
+    "description": "R dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "R",
+    "course_name": "R 10: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=R+course",
+    "level": "advanced",
+    "description": "R dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 11: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=R+course",
+    "level": "advanced",
+    "description": "R dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 12: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=R+course",
+    "level": "advanced",
+    "description": "R dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 13: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=R+course",
+    "level": "intermediate",
+    "description": "R dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 14: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=R+course",
+    "level": "beginner",
+    "description": "R dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 15: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=R+course",
+    "level": "beginner",
+    "description": "R dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "paid"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 1: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Dart+course",
+    "level": "beginner",
+    "description": "Dart dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 2: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Dart+course",
+    "level": "intermediate",
+    "description": "Dart dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 3: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Dart+course",
+    "level": "beginner",
+    "description": "Dart dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 4: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Dart+course",
+    "level": "intermediate",
+    "description": "Dart dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 5: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Dart+course",
+    "level": "advanced",
+    "description": "Dart dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 6: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Dart+course",
+    "level": "advanced",
+    "description": "Dart dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 7: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Dart+course",
+    "level": "beginner",
+    "description": "Dart dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 8: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Dart+course",
+    "level": "advanced",
+    "description": "Dart dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 9: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Dart+course",
+    "level": "beginner",
+    "description": "Dart dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 10: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Dart+course",
+    "level": "beginner",
+    "description": "Dart dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 11: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Dart+course",
+    "level": "advanced",
+    "description": "Dart dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 12: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Dart+course",
+    "level": "intermediate",
+    "description": "Dart dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 13: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Dart+course",
+    "level": "intermediate",
+    "description": "Dart dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 14: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Dart+course",
+    "level": "intermediate",
+    "description": "Dart dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 15: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Dart+course",
+    "level": "advanced",
+    "description": "Dart dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 1: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Scala+course",
+    "level": "intermediate",
+    "description": "Scala dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 2: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Scala+course",
+    "level": "intermediate",
+    "description": "Scala dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 3: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Scala+course",
+    "level": "beginner",
+    "description": "Scala dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 4: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Scala+course",
+    "level": "beginner",
+    "description": "Scala dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 5: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Scala+course",
+    "level": "intermediate",
+    "description": "Scala dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 6: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Scala+course",
+    "level": "advanced",
+    "description": "Scala dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 7: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Scala+course",
+    "level": "intermediate",
+    "description": "Scala dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 8: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Scala+course",
+    "level": "advanced",
+    "description": "Scala dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 9: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Scala+course",
+    "level": "beginner",
+    "description": "Scala dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 10: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Scala+course",
+    "level": "intermediate",
+    "description": "Scala dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 11: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Scala+course",
+    "level": "beginner",
+    "description": "Scala dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 12: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Scala+course",
+    "level": "advanced",
+    "description": "Scala dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 13: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Scala+course",
+    "level": "intermediate",
+    "description": "Scala dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 14: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Scala+course",
+    "level": "beginner",
+    "description": "Scala dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "Scala",
+    "course_name": "Scala 15: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Scala+course",
+    "level": "advanced",
+    "description": "Scala dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 1: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Bash+course",
+    "level": "advanced",
+    "description": "Bash dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 2: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Bash+course",
+    "level": "intermediate",
+    "description": "Bash dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 3: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Bash+course",
+    "level": "beginner",
+    "description": "Bash dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 4: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Bash+course",
+    "level": "intermediate",
+    "description": "Bash dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 5: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Bash+course",
+    "level": "beginner",
+    "description": "Bash dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 6: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Bash+course",
+    "level": "intermediate",
+    "description": "Bash dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 7: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Bash+course",
+    "level": "advanced",
+    "description": "Bash dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 8: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Bash+course",
+    "level": "intermediate",
+    "description": "Bash dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 9: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Bash+course",
+    "level": "intermediate",
+    "description": "Bash dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 10: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Bash+course",
+    "level": "beginner",
+    "description": "Bash dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 11: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Bash+course",
+    "level": "intermediate",
+    "description": "Bash dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 12: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Bash+course",
+    "level": "beginner",
+    "description": "Bash dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 13: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Bash+course",
+    "level": "intermediate",
+    "description": "Bash dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 14: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Bash+course",
+    "level": "beginner",
+    "description": "Bash dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "Bash",
+    "course_name": "Bash 15: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Bash+course",
+    "level": "beginner",
+    "description": "Bash dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 1: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=MATLAB+course",
+    "level": "beginner",
+    "description": "MATLAB dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 2: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=MATLAB+course",
+    "level": "advanced",
+    "description": "MATLAB dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 3: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=MATLAB+course",
+    "level": "advanced",
+    "description": "MATLAB dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 4: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=MATLAB+course",
+    "level": "beginner",
+    "description": "MATLAB dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 5: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=MATLAB+course",
+    "level": "intermediate",
+    "description": "MATLAB dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 6: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=MATLAB+course",
+    "level": "advanced",
+    "description": "MATLAB dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 7: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=MATLAB+course",
+    "level": "advanced",
+    "description": "MATLAB dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "paid"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 8: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=MATLAB+course",
+    "level": "beginner",
+    "description": "MATLAB dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 9: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=MATLAB+course",
+    "level": "beginner",
+    "description": "MATLAB dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 10: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=MATLAB+course",
+    "level": "intermediate",
+    "description": "MATLAB dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 11: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=MATLAB+course",
+    "level": "advanced",
+    "description": "MATLAB dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 12: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=MATLAB+course",
+    "level": "beginner",
+    "description": "MATLAB dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 13: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=MATLAB+course",
+    "level": "advanced",
+    "description": "MATLAB dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 14: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=MATLAB+course",
+    "level": "beginner",
+    "description": "MATLAB dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "MATLAB",
+    "course_name": "MATLAB 15: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=MATLAB+course",
+    "level": "intermediate",
+    "description": "MATLAB dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 1: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=HTML/CSS+course",
+    "level": "beginner",
+    "description": "HTML/CSS dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "free"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 2: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=HTML/CSS+course",
+    "level": "intermediate",
+    "description": "HTML/CSS dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 3: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=HTML/CSS+course",
+    "level": "intermediate",
+    "description": "HTML/CSS dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 4: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=HTML/CSS+course",
+    "level": "intermediate",
+    "description": "HTML/CSS dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 5: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=HTML/CSS+course",
+    "level": "beginner",
+    "description": "HTML/CSS dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 6: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=HTML/CSS+course",
+    "level": "advanced",
+    "description": "HTML/CSS dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 7: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=HTML/CSS+course",
+    "level": "beginner",
+    "description": "HTML/CSS dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 8: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=HTML/CSS+course",
+    "level": "beginner",
+    "description": "HTML/CSS dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 9: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=HTML/CSS+course",
+    "level": "beginner",
+    "description": "HTML/CSS dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 10: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=HTML/CSS+course",
+    "level": "beginner",
+    "description": "HTML/CSS dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 11: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=HTML/CSS+course",
+    "level": "advanced",
+    "description": "HTML/CSS dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 12: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=HTML/CSS+course",
+    "level": "beginner",
+    "description": "HTML/CSS dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "paid"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 13: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=HTML/CSS+course",
+    "level": "intermediate",
+    "description": "HTML/CSS dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 14: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=HTML/CSS+course",
+    "level": "beginner",
+    "description": "HTML/CSS dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "HTML/CSS",
+    "course_name": "HTML/CSS 15: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=HTML/CSS+course",
+    "level": "intermediate",
+    "description": "HTML/CSS dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 1: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Assembly+course",
+    "level": "intermediate",
+    "description": "Assembly dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 2: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Assembly+course",
+    "level": "advanced",
+    "description": "Assembly dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 3: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Assembly+course",
+    "level": "advanced",
+    "description": "Assembly dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 4: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Assembly+course",
+    "level": "beginner",
+    "description": "Assembly dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 5: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Assembly+course",
+    "level": "beginner",
+    "description": "Assembly dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 6: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Assembly+course",
+    "level": "advanced",
+    "description": "Assembly dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 7: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Assembly+course",
+    "level": "beginner",
+    "description": "Assembly dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 8: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Assembly+course",
+    "level": "advanced",
+    "description": "Assembly dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 9: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Assembly+course",
+    "level": "intermediate",
+    "description": "Assembly dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 10: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Assembly+course",
+    "level": "advanced",
+    "description": "Assembly dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 11: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Assembly+course",
+    "level": "beginner",
+    "description": "Assembly dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "paid"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 12: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Assembly+course",
+    "level": "advanced",
+    "description": "Assembly dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 13: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Assembly+course",
+    "level": "advanced",
+    "description": "Assembly dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 14: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Assembly+course",
+    "level": "intermediate",
+    "description": "Assembly dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Assembly",
+    "course_name": "Assembly 15: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Assembly+course",
+    "level": "intermediate",
+    "description": "Assembly dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "free"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 1: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Lua+course",
+    "level": "beginner",
+    "description": "Lua dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 2: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Lua+course",
+    "level": "advanced",
+    "description": "Lua dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "free"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 3: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Lua+course",
+    "level": "intermediate",
+    "description": "Lua dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 4: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Lua+course",
+    "level": "beginner",
+    "description": "Lua dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 5: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Lua+course",
+    "level": "beginner",
+    "description": "Lua dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 6: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Lua+course",
+    "level": "beginner",
+    "description": "Lua dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 7: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Lua+course",
+    "level": "intermediate",
+    "description": "Lua dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 8: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Lua+course",
+    "level": "intermediate",
+    "description": "Lua dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 9: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Lua+course",
+    "level": "intermediate",
+    "description": "Lua dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 10: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Lua+course",
+    "level": "beginner",
+    "description": "Lua dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 11: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Lua+course",
+    "level": "advanced",
+    "description": "Lua dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "free"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 12: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Lua+course",
+    "level": "intermediate",
+    "description": "Lua dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 13: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Lua+course",
+    "level": "advanced",
+    "description": "Lua dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 14: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Lua+course",
+    "level": "intermediate",
+    "description": "Lua dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "Lua",
+    "course_name": "Lua 15: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Lua+course",
+    "level": "advanced",
+    "description": "Lua dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 1: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Haskell+course",
+    "level": "beginner",
+    "description": "Haskell dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "free"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 2: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Haskell+course",
+    "level": "advanced",
+    "description": "Haskell dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 3: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Haskell+course",
+    "level": "advanced",
+    "description": "Haskell dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 4: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Haskell+course",
+    "level": "beginner",
+    "description": "Haskell dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 5: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Haskell+course",
+    "level": "intermediate",
+    "description": "Haskell dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 6: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Haskell+course",
+    "level": "intermediate",
+    "description": "Haskell dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 7: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Haskell+course",
+    "level": "intermediate",
+    "description": "Haskell dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 8: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Haskell+course",
+    "level": "intermediate",
+    "description": "Haskell dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 9: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Haskell+course",
+    "level": "intermediate",
+    "description": "Haskell dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 10: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Haskell+course",
+    "level": "advanced",
+    "description": "Haskell dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 11: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Haskell+course",
+    "level": "beginner",
+    "description": "Haskell dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 12: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Haskell+course",
+    "level": "intermediate",
+    "description": "Haskell dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 13: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Haskell+course",
+    "level": "intermediate",
+    "description": "Haskell dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 14: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Haskell+course",
+    "level": "advanced",
+    "description": "Haskell dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "Haskell",
+    "course_name": "Haskell 15: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Haskell+course",
+    "level": "beginner",
+    "description": "Haskell dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 1: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Julia+course",
+    "level": "intermediate",
+    "description": "Julia dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 2: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Julia+course",
+    "level": "advanced",
+    "description": "Julia dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 3: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Julia+course",
+    "level": "intermediate",
+    "description": "Julia dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 4: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Julia+course",
+    "level": "advanced",
+    "description": "Julia dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 5: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Julia+course",
+    "level": "intermediate",
+    "description": "Julia dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 6: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Julia+course",
+    "level": "advanced",
+    "description": "Julia dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 7: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Julia+course",
+    "level": "beginner",
+    "description": "Julia dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 8: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Julia+course",
+    "level": "intermediate",
+    "description": "Julia dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 9: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Julia+course",
+    "level": "advanced",
+    "description": "Julia dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 10: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Julia+course",
+    "level": "intermediate",
+    "description": "Julia dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 11: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Julia+course",
+    "level": "intermediate",
+    "description": "Julia dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 12: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Julia+course",
+    "level": "beginner",
+    "description": "Julia dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "free"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 13: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Julia+course",
+    "level": "intermediate",
+    "description": "Julia dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 14: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Julia+course",
+    "level": "advanced",
+    "description": "Julia dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "Julia",
+    "course_name": "Julia 15: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Julia+course",
+    "level": "beginner",
+    "description": "Julia dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "free"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 1: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Objective-C+course",
+    "level": "advanced",
+    "description": "Objective-C dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 2: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Objective-C+course",
+    "level": "intermediate",
+    "description": "Objective-C dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 3: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Objective-C+course",
+    "level": "beginner",
+    "description": "Objective-C dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 4: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Objective-C+course",
+    "level": "intermediate",
+    "description": "Objective-C dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 5: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Objective-C+course",
+    "level": "advanced",
+    "description": "Objective-C dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 6: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Objective-C+course",
+    "level": "beginner",
+    "description": "Objective-C dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 7: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Objective-C+course",
+    "level": "advanced",
+    "description": "Objective-C dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 8: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Objective-C+course",
+    "level": "beginner",
+    "description": "Objective-C dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "paid"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 9: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Objective-C+course",
+    "level": "intermediate",
+    "description": "Objective-C dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 10: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Objective-C+course",
+    "level": "advanced",
+    "description": "Objective-C dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 11: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Objective-C+course",
+    "level": "beginner",
+    "description": "Objective-C dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "free"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 12: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Objective-C+course",
+    "level": "advanced",
+    "description": "Objective-C dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 13: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Objective-C+course",
+    "level": "advanced",
+    "description": "Objective-C dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 14: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Objective-C+course",
+    "level": "beginner",
+    "description": "Objective-C dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "Objective-C",
+    "course_name": "Objective-C 15: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Objective-C+course",
+    "level": "intermediate",
+    "description": "Objective-C dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 1: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Perl+course",
+    "level": "intermediate",
+    "description": "Perl dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 2: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Perl+course",
+    "level": "beginner",
+    "description": "Perl dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 3: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Perl+course",
+    "level": "intermediate",
+    "description": "Perl dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 4: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Perl+course",
+    "level": "intermediate",
+    "description": "Perl dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 5: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Perl+course",
+    "level": "beginner",
+    "description": "Perl dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 6: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Perl+course",
+    "level": "beginner",
+    "description": "Perl dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 7: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Perl+course",
+    "level": "advanced",
+    "description": "Perl dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 8: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Perl+course",
+    "level": "beginner",
+    "description": "Perl dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 9: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Perl+course",
+    "level": "beginner",
+    "description": "Perl dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 10: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Perl+course",
+    "level": "intermediate",
+    "description": "Perl dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 11: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Perl+course",
+    "level": "advanced",
+    "description": "Perl dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 12: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Perl+course",
+    "level": "beginner",
+    "description": "Perl dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 13: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Perl+course",
+    "level": "advanced",
+    "description": "Perl dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 14: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=Perl+course",
+    "level": "intermediate",
+    "description": "Perl dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "paid"
+  },
+  {
+    "language": "Perl",
+    "course_name": "Perl 15: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Perl+course",
+    "level": "intermediate",
+    "description": "Perl dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 1: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Rust+course",
+    "level": "beginner",
+    "description": "Rust dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 2: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Rust+course",
+    "level": "beginner",
+    "description": "Rust dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 3: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Rust+course",
+    "level": "intermediate",
+    "description": "Rust dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 4: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Rust+course",
+    "level": "advanced",
+    "description": "Rust dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 5: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Rust+course",
+    "level": "beginner",
+    "description": "Rust dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 6: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Rust+course",
+    "level": "intermediate",
+    "description": "Rust dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 7: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Rust+course",
+    "level": "advanced",
+    "description": "Rust dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 8: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Rust+course",
+    "level": "intermediate",
+    "description": "Rust dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 9: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Rust+course",
+    "level": "intermediate",
+    "description": "Rust dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 10: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Rust+course",
+    "level": "beginner",
+    "description": "Rust dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "free"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 11: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=Rust+course",
+    "level": "advanced",
+    "description": "Rust dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 12: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Rust+course",
+    "level": "advanced",
+    "description": "Rust dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 13: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=Rust+course",
+    "level": "advanced",
+    "description": "Rust dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 14: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Rust+course",
+    "level": "advanced",
+    "description": "Rust dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "Rust",
+    "course_name": "Rust 15: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=Rust+course",
+    "level": "beginner",
+    "description": "Rust dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 1: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=TypeScript+course",
+    "level": "intermediate",
+    "description": "TypeScript dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 2: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=TypeScript+course",
+    "level": "beginner",
+    "description": "TypeScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 3: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=TypeScript+course",
+    "level": "intermediate",
+    "description": "TypeScript dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 4: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=TypeScript+course",
+    "level": "intermediate",
+    "description": "TypeScript dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 5: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=TypeScript+course",
+    "level": "beginner",
+    "description": "TypeScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 6: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=TypeScript+course",
+    "level": "advanced",
+    "description": "TypeScript dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 7: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=TypeScript+course",
+    "level": "advanced",
+    "description": "TypeScript dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 8: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=TypeScript+course",
+    "level": "intermediate",
+    "description": "TypeScript dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 9: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=TypeScript+course",
+    "level": "advanced",
+    "description": "TypeScript dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 10: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=TypeScript+course",
+    "level": "advanced",
+    "description": "TypeScript dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 11: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=TypeScript+course",
+    "level": "intermediate",
+    "description": "TypeScript dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 12: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=TypeScript+course",
+    "level": "beginner",
+    "description": "TypeScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 13: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=TypeScript+course",
+    "level": "intermediate",
+    "description": "TypeScript dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 14: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=TypeScript+course",
+    "level": "beginner",
+    "description": "TypeScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "TypeScript",
+    "course_name": "TypeScript 15: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=TypeScript+course",
+    "level": "beginner",
+    "description": "TypeScript dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 1: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=SQL+course",
+    "level": "beginner",
+    "description": "SQL dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 2: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=SQL+course",
+    "level": "advanced",
+    "description": "SQL dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 3: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=SQL+course",
+    "level": "beginner",
+    "description": "SQL dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "paid"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 4: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=SQL+course",
+    "level": "advanced",
+    "description": "SQL dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 5: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=SQL+course",
+    "level": "beginner",
+    "description": "SQL dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 6: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=SQL+course",
+    "level": "intermediate",
+    "description": "SQL dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 7: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=SQL+course",
+    "level": "beginner",
+    "description": "SQL dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 8: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=SQL+course",
+    "level": "advanced",
+    "description": "SQL dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 9: Comprehensive Course (Microsoft Learn)",
+    "platform": "Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/search/?terms=SQL+course",
+    "level": "intermediate",
+    "description": "SQL dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Microsoft Learn.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 10: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=SQL+course",
+    "level": "advanced",
+    "description": "SQL dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 11: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=SQL+course",
+    "level": "intermediate",
+    "description": "SQL dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 12: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=SQL+course",
+    "level": "beginner",
+    "description": "SQL dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 13: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=SQL+course",
+    "level": "intermediate",
+    "description": "SQL dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 14: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=SQL+course",
+    "level": "intermediate",
+    "description": "SQL dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "SQL",
+    "course_name": "SQL 15: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=SQL+course",
+    "level": "intermediate",
+    "description": "SQL dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 1: Comprehensive Course (Apple Developer)",
+    "platform": "Apple Developer",
+    "url": "https://developer.apple.com/search/?q=R+course",
+    "level": "intermediate",
+    "description": "R dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Apple Developer.",
+    "cost": "free"
+  },
+  {
+    "language": "R",
+    "course_name": "R 2: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=R+course",
+    "level": "beginner",
+    "description": "R dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "free"
+  },
+  {
+    "language": "R",
+    "course_name": "R 3: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=R+course",
+    "level": "advanced",
+    "description": "R dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "R",
+    "course_name": "R 4: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=R+course",
+    "level": "advanced",
+    "description": "R dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 5: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=R+course",
+    "level": "intermediate",
+    "description": "R dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "R",
+    "course_name": "R 6: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=R+course",
+    "level": "advanced",
+    "description": "R dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 7: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=R+course",
+    "level": "intermediate",
+    "description": "R dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "R",
+    "course_name": "R 8: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=R+course",
+    "level": "advanced",
+    "description": "R dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 9: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=R+course",
+    "level": "beginner",
+    "description": "R dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 10: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=R+course",
+    "level": "intermediate",
+    "description": "R dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "R",
+    "course_name": "R 11: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=R+course",
+    "level": "beginner",
+    "description": "R dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 12: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=R+course",
+    "level": "intermediate",
+    "description": "R dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 13: Comprehensive Course (Coursera)",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/courses?query=R+course",
+    "level": "beginner",
+    "description": "R dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Coursera.",
+    "cost": "paid"
+  },
+  {
+    "language": "R",
+    "course_name": "R 14: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=R+course",
+    "level": "intermediate",
+    "description": "R dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "free"
+  },
+  {
+    "language": "R",
+    "course_name": "R 15: Comprehensive Course (Alison)",
+    "platform": "Alison",
+    "url": "https://alison.com/search?query=R+course",
+    "level": "advanced",
+    "description": "R dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Alison.",
+    "cost": "paid"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 1: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Dart+course",
+    "level": "advanced",
+    "description": "Dart dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 2: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Dart+course",
+    "level": "beginner",
+    "description": "Dart dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 3: Comprehensive Course (Udacity)",
+    "platform": "Udacity",
+    "url": "https://www.udacity.com/courses/all?search=Dart+course",
+    "level": "advanced",
+    "description": "Dart dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Udacity.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 4: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Dart+course",
+    "level": "beginner",
+    "description": "Dart dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 5: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Dart+course",
+    "level": "advanced",
+    "description": "Dart dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 6: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Dart+course",
+    "level": "beginner",
+    "description": "Dart dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 7: Comprehensive Course (FreeCodeCamp)",
+    "platform": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/news/search/?query=Dart+course",
+    "level": "beginner",
+    "description": "Dart dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: FreeCodeCamp.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 8: Comprehensive Course (Codecademy)",
+    "platform": "Codecademy",
+    "url": "https://www.codecademy.com/search?query=Dart+course",
+    "level": "beginner",
+    "description": "Dart dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Codecademy.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 9: Comprehensive Course (edX)",
+    "platform": "edX",
+    "url": "https://www.edx.org/search?search_query=Dart+course",
+    "level": "advanced",
+    "description": "Dart dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: edX.",
+    "cost": "paid"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 10: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Dart+course",
+    "level": "beginner",
+    "description": "Dart dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 11: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Dart+course",
+    "level": "advanced",
+    "description": "Dart dilini advanced seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 12: Comprehensive Course (Udemy)",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/courses/search/?q=Dart+course",
+    "level": "intermediate",
+    "description": "Dart dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Udemy.",
+    "cost": "paid"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 13: Comprehensive Course (LinkedIn Learning)",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/search?keywords=Dart+course",
+    "level": "beginner",
+    "description": "Dart dilini beginner seviyesinde öğreten çevrimiçi kurs. Platform: LinkedIn Learning.",
+    "cost": "paid"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 14: Comprehensive Course (Pluralsight)",
+    "platform": "Pluralsight",
+    "url": "https://www.pluralsight.com/search?q=Dart+course",
+    "level": "intermediate",
+    "description": "Dart dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Pluralsight.",
+    "cost": "paid"
+  },
+  {
+    "language": "Dart",
+    "course_name": "Dart 15: Comprehensive Course (Khan Academy)",
+    "platform": "Khan Academy",
+    "url": "https://www.khanacademy.org/search?page_search_query=Dart+course",
+    "level": "intermediate",
+    "description": "Dart dilini intermediate seviyesinde öğreten çevrimiçi kurs. Platform: Khan Academy.",
+    "cost": "free"
+  }
+]
